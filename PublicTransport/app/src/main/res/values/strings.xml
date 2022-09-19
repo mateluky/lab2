@@ -3,5 +3,6 @@
     <string name="bike">Bike</string>
     <string name="bus">Bus</string>
     <string name="train">Train</string>
+    <string name="boat">Boat</string>
     <string name="start_date">Start date</string>
 </resources>
